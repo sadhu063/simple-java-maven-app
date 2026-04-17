@@ -4,7 +4,7 @@ pipeline {
 
         stage('Complete') {
             steps {
-                echo 'Job Compleed.!'
+                echo 'Job Complhghfghfheed.!'
             }
         }
     }
